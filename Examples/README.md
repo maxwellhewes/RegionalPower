@@ -3,7 +3,7 @@
 
 ## Purpose
 
-These examples are designed to illustrate the use of provided 'helper functions' in the analysis of regional energy production analysis.
+These examples are designed to illustrate the use of provided 'helper functions' in the analysis of regional energy production.
 
 ## Example Types:
 
