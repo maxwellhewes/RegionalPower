@@ -1,5 +1,3 @@
-# Renewables.ninja Heating & cooling demand (Point API) - 64.589, -146.974 - Version: 1.0 - License: https://creativecommons.org/licenses/by-nc/4.0/ - Reference: https://doi.org/10.1038/s41560-023-01341-5
-# Units: time in UTC, local_time in America/Anchorage, total_demand in unknown, heating_demand in unknown, cooling_demand in unknown
 time,local_time,total_demand,heating_demand,cooling_demand
 2019-01-01 00:00,2018-12-31 15:00,6.209,6.209,0
 2019-01-01 01:00,2018-12-31 16:00,6.200,6.200,0
