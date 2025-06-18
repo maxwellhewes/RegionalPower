@@ -1,6 +1,5 @@
 # Renewables.ninja Heating & cooling demand (Point API) - 64.589, -146.974 - Version: 1.0 - License: https://creativecommons.org/licenses/by-nc/4.0/ - Reference: https://doi.org/10.1038/s41560-023-01341-5
 # Units: time in UTC, local_time in America/Anchorage, total_demand in unknown, heating_demand in unknown, cooling_demand in unknown
-# {"units": {"time": "UTC", "local_time": "America/Anchorage", "total_demand": "unknown", "heating_demand": "unknown", "cooling_demand": "unknown"}, "params": {"local_time": "true", "header": "true", "lat": "64.5885649933064", "lon": "-146.9740456504106", "date_from": "2019-01-01", "date_to": "2019-12-31", "dataset": "merra2", "heating_threshold": "14", "cooling_threshold": "20", "base_power": "0", "heating_power": "0.3", "cooling_power": "0.15", "smoothing": "0.5", "solar_gains": "0.012", "wind_chill": "-0.2", "humidity_discomfort": "0.05", "use_diurnal_profile": "true"}}
 time,local_time,total_demand,heating_demand,cooling_demand
 2019-01-01 00:00,2018-12-31 15:00,6.209,6.209,0
 2019-01-01 01:00,2018-12-31 16:00,6.200,6.200,0
